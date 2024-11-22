@@ -136,7 +136,7 @@ namespace PhoneBook;
             }
             else
             {
-                Console.WriteLine("Телефонная книга пуста.");
+                Console.WriteLine("Телефонная книга пуста.");// result
             }
         }
     }
